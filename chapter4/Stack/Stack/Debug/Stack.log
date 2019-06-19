@@ -1,0 +1,4 @@
+﻿  test.cpp
+c:\users\52963\documents\visual studio 2015\code\data structures and algorithm analysis\stack\stack\astack.h(48): warning C4172: 返回局部变量或临时变量的地址
+  Stack.vcxproj -> C:\Users\52963\Documents\Visual Studio 2015\Code\Data structures and Algorithm analysis\Stack\Debug\Stack.exe
+  Stack.vcxproj -> C:\Users\52963\Documents\Visual Studio 2015\Code\Data structures and Algorithm analysis\Stack\Debug\Stack.pdb (Full PDB)
